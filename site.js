@@ -13,7 +13,7 @@ export const business = {
   visitCharge: 199,
   warrantyDays: 30,
   callbackMinutes: 15,
-  ticketPrefix: 'MB', // job numbers look like MB-4821
+  ticketPrefix: 'FW', // job numbers look like MB-4821
 }
 
 export const money = (n) => business.currency + n.toLocaleString('en-IN')
