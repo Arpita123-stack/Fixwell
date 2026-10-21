@@ -1,4 +1,4 @@
-# Mehta Brothers: local service provider website
+# Fix Well: local service provider website
 
 A one-page React site (built with Vite) for a family-run home repair and cleaning business.
 Sections: header with phone button, hero with a "job card" booking form, rate card, how it works,
