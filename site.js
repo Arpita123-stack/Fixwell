@@ -3,7 +3,7 @@
 // Replace them with your own before the site goes live.
 
 export const business = {
-  name: 'Mehta Brothers',
+  name: 'FixWell',
   phone: '+91 98765 43210',
   phoneLink: 'tel:+919876543210',
   whatsapp: '919876543210', // country code + number, digits only
